@@ -1,2 +1,0 @@
-apa aja lah
-
