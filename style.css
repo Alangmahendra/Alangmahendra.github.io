@@ -1,0 +1,176 @@
+* {
+	margin:0px;
+	padding:0px
+	curosr:default;
+	text-decoration:none;
+	
+
+}
+
+
+		
+
+header {
+	
+	position:fixed;
+	background-color:white;
+	width:100%;
+	
+}
+
+
+
+nav {
+	
+	border-bottom:solid;
+	width:100%;
+	float:left;
+	background:#333333;
+	
+}
+
+
+ul {
+	
+	
+	margin:0px;
+	padding:20px 0px 20px 0px;
+	list-style-type:none;
+	
+	
+}
+
+
+li {
+	
+	display:inline;
+	font-family:arial;
+	text-align:center;
+	padding:25px 16px 25px 16px;
+	color:white;
+	font-size:28px;
+	text-decoration:none;
+	
+}
+
+li:hover {
+
+	background-color:grey;
+	color:black;
+	
+}
+
+
+body {
+	
+	
+	background-color:orange;	
+	
+}
+
+body, h1,h2,h3,h4,h5,h6 {
+	
+	font-family: sans-serif;
+
+}
+
+h1{
+	
+	font-size:50px;
+	color:white;
+	
+}
+
+h2{
+	
+	
+	padding:30px 0px 10px 0px;
+	
+}
+
+
+h5 {
+	
+	color:white;
+	
+}
+
+
+article {
+	
+	padding:18px 0px 20px 0px;
+	font-size:20px;
+
+}
+
+
+p {
+
+	padding-top:20px;
+	
+}
+
+
+#isi-atas {
+	
+	margin:0px 50px 0px 50px;
+	padding:84px 20px 4px 20px;
+	text-align:center;
+	background-color:#333333;
+	
+	
+}
+
+
+#isi-kiri{
+	
+	margin:30px 70px 0px 70px;
+	text-align:left;
+	padding:0px 20px 0px 20px;
+	background-color:#a6a6a6;
+	color:white;
+	border-bottom:solid
+}
+
+
+
+#isi-kanan{
+	
+	margin:0px 70px 0px 70px;
+	text-align:right;
+	padding:0px 20px 0px 20px;
+	background-color: white;
+	border-bottom:solid
+	
+}
+
+
+#isi-bawah{
+	
+	margin:0px 70px 0px 70px;
+	text-align:left;
+	padding:0px 20px 0px 20px;
+	background-color:#a6a6a6;
+	color:white;
+	border-bottom:solid
+}
+
+
+.img-circle{
+	
+	border-radius:50%;
+	
+}
+
+
+footer {
+	
+		
+	border-style:solid; 
+	background-color: black;
+	text-align:center;
+	margin:50px 0px 0px 0px;
+	position:bottom;
+	bottom:0;
+	padding:15px 0px 15px 0px;
+}
